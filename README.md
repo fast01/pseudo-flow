@@ -1,3 +1,5 @@
+[English](README-en.md) | [中文](README.md)     
+---- 
 # Pseudo Flow
 trun pseudo-code of c/js and  python style  to flowchart 
 
